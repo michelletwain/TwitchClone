@@ -42,7 +42,7 @@ I have chosen to duplicate the following layout from the **App Name Here** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![](https://github.com/michelletwain/TwitchClone/blob/master/project2.gif)
 
 GIF created with ScreenToGif
 
